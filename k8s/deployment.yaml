@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: hello-world
-          image: dinujayam/hello-world:latest
+          image: ruthiru/hello-world:latest
           ports:
             - containerPort: 8080
