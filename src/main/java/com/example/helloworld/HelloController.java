@@ -8,7 +8,7 @@ public class HelloController {
 
     @GetMapping("/hello-world/welcome")
         public String welcome() {
-            return "Welcome to FusionX";
+            return "Welcome to LOLC";
         }
     }
 
